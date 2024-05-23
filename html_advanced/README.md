@@ -1,4 +1,12 @@
-This Project is all about web development by using html and css
+Learning Objectives
+This is a simple project meant to help build the strong knowledge in the web development knowledge, and also it helps build a better background in the vanilla html, css and javascript
 
-
-![what-does-a-web-developer-do-2](https://github.com/denismitali17/alu-web-development/assets/155962407/70147bd3-18ec-498f-b247-bc676473e1cf)
+General
+What is HTML
+How to create an HTML page from a wireframe
+What is a markup language
+What is the DOM
+What is an element / tag
+What is an attribute
+What the purpose of each HTML tag
+Preview of the platform
